@@ -1,0 +1,7 @@
+'''installation of pywhatkit is required to run the code below
+For installing pywhatkit use type 
+pip install pywhatkit
+'''
+
+import pywhatkit
+pywhatkit.sendwhatmsg('+919876543210','Hey!',11,11)
